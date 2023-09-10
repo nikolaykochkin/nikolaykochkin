@@ -10,7 +10,7 @@
 
 <br/>
 
-### Languages
+### 👨‍💻 Languages
 
 <img align="left" alt="SQL" width="32" height="32" src="svg/sql-svgrepo-com.svg">
 <img align="left" alt="Python" height="32" width="32" src="https://cdn.simpleicons.org/python" />
@@ -22,7 +22,7 @@
 
 <br/>
 
-### Databases
+### 💿 Databases
 
 <img align="left" alt="Postgres" height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />
 <img align="left" alt="MongoDB" height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
@@ -30,7 +30,7 @@
 
 <br/>
 
-### Big Data
+### 🐘 Big Data
 
 <img align="left" alt="Hadoop" height="32" width="32" src="https://cdn.simpleicons.org/apachehadoop" />
 <img align="left" alt="Spark" height="32" width="32" src="https://cdn.simpleicons.org/apachespark" />
@@ -38,7 +38,7 @@
 
 <br/>
 
-### Tools
+### 🔧 Tools
 
 <img align="left" alt="Linux" height="32" width="32" src="https://cdn.simpleicons.org/linux" />
 <img align="left" alt="Git" height="32" width="32" src="https://cdn.simpleicons.org/git" />
