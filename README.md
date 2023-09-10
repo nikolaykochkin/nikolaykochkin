@@ -12,11 +12,13 @@
 
 ### Languages
 
+<img align="left" alt="SQL" width="32" height="32" src="svg/sql-svgrepo-com.svg">
 <img align="left" alt="Python" height="32" width="32" src="https://cdn.simpleicons.org/python" />
 <img align="left" alt="Java" height="32" width="32" src="https://cdn.simpleicons.org/openjdk" />
 <img align="left" alt="Scala" height="32" width="32" src="https://cdn.simpleicons.org/scala" />
 <img align="left" alt="Bash" height="32" width="32" src="https://cdn.simpleicons.org/gnubash" />
-<img align="left" alt="SQL" width="32" height="32" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/database.svg">
+
+
 
 <br/>
 
@@ -32,7 +34,7 @@
 
 <img align="left" alt="Hadoop" height="32" width="32" src="https://cdn.simpleicons.org/apachehadoop" />
 <img align="left" alt="Spark" height="32" width="32" src="https://cdn.simpleicons.org/apachespark" />
-<img align="left" alt="Kafka" height="32" width="32" src="https://cdn.simpleicons.org/apachekafka" />
+<img align="left" alt="Kafka" height="32" width="32" src="https://cdn.simpleicons.org/apachekafka/231F20/5ca2a2" />
 
 <br/>
 
