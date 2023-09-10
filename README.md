@@ -2,13 +2,13 @@
 
 ## I am a Data Engineer!
 
----
-
 ### 📫 How to reach me:
 
 [<img align="left" alt="Nikolai Kochkin | Linkedin" height="32" width="32" src="https://cdn.simpleicons.org/linkedin" />](https://www.linkedin.com/in/nikolai-kochkin-85406b263)
 [<img align="left" alt="Nikolai Kochkin | Linkedin" height="32" width="32" src="https://cdn.simpleicons.org/telegram" />](https://t.me/qwerty_qwerty_91)
 [<img align="left" alt="Nikolai Kochkin | Linkedin" height="32" width="32" src="https://cdn.simpleicons.org/gmail" />](mailto:nikolaykochkin91@gmail.com)
+
+<br/>
 
 ### Languages
 
@@ -18,17 +18,23 @@
 <img align="left" alt="Bash" height="32" width="32" src="https://cdn.simpleicons.org/gnubash" />
 <img align="left" alt="SQL" width="32" height="32" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/database.svg">
 
+<br/>
+
 ### Databases
 
 <img align="left" alt="Postgres" height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />
 <img align="left" alt="MongoDB" height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
 <img align="left" alt="Redis" height="32" width="32" src="https://cdn.simpleicons.org/redis" />
 
+<br/>
+
 ### Big Data
 
 <img align="left" alt="Hadoop" height="32" width="32" src="https://cdn.simpleicons.org/apachehadoop" />
 <img align="left" alt="Spark" height="32" width="32" src="https://cdn.simpleicons.org/apachespark" />
 <img align="left" alt="Kafka" height="32" width="32" src="https://cdn.simpleicons.org/apachekafka" />
+
+<br/>
 
 ### Tools
 
@@ -37,3 +43,6 @@
 <img align="left" alt="Docker" height="32" width="32" src="https://cdn.simpleicons.org/docker" />
 <img align="left" alt="Kubernetes" height="32" width="32" src="https://cdn.simpleicons.org/Kubernetes" />
 <img align="left" alt="Airflow" height="32" width="32" src="https://cdn.simpleicons.org/apacheairflow" />
+
+<br/>
+<br/>
