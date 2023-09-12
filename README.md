@@ -72,7 +72,7 @@
     - Apache PySpark
     - Apache Airflow
     - YARN
-- [Analytical storage to assist marketers in delivering effective social media ads.](https://github.com/nikolaykochkin/de-project-sprint-6)
+- [Analytical storage to assist marketers in delivering effective social media ads.](https://github.com/nikolaykochkin/de-project-sprint-6)  
   Technologies:
     - Apache Airflow
     - Data Vault
